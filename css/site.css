@@ -5,6 +5,20 @@
     --white-color: #dff3e4;
 }
 
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bold;
+}
+
+.logoFont {
+    font-family: 'Racing Sans One', cursive;
+    font-weight: 600;
+    font-style: italic;
+}
+
 body{
     color: var(--dark-color);
 }
